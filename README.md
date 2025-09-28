@@ -1,2 +1,2 @@
-# De-MUNet
-The official repository of this De-MUNet
+# EdgeSeg
+The official repository of this EdgeSeg
